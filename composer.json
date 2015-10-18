@@ -1,0 +1,25 @@
+{
+  "name": "reyhansofian/adminlte-react",
+  "description": "AdminLTE React - admin control panel and dashboard that's based on Bootstrap 3 and ReactJS",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Reyhan Sofian",
+      "email": "computecoholic@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/reyhansofian/adminLTE-react/issues"
+  }
+}

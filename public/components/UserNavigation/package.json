@@ -1,0 +1,6 @@
+{
+  "name": "UserNavigation",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./UserNavigation.js"
+}

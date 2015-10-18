@@ -1,0 +1,6 @@
+{
+  "name": "DropdownNavigation",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DropdownNavigation.js"
+}

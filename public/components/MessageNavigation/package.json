@@ -1,0 +1,6 @@
+{
+  "name": "MessageNavigation",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./MessageNavigation.js"
+}
